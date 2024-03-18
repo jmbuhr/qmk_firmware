@@ -43,12 +43,12 @@
       "KC_DOT",
       "KC_SLSH",
       "KC_NO",
+      "KC_LGUI",
       "RALT_T(KC_ESC)",
       "LT(1,KC_SPC)",
-      "KC_LGUI",
-      "KC_ENT",
       "LT(1,KC_SPC)",
-      "RALT_T(KC_BSPC)"
+      "RALT_T(KC_BSPC)",
+      "KC_ENT"
     ],
     [
       "KC_LT",
@@ -88,11 +88,11 @@
       "KC_BSLS",
       "KC_NO",
       "KC_NO",
+      "KC_NO",
       "LT(2,KC_ENT)",
-      "KC_NO",
-      "KC_NO",
-      "KC_ENT",
-      "KC_DEL"
+      "LT(2,KC_ENT)",
+      "KC_DEL",
+      "KC_NO"
     ],
     [
       "KC_NO",
